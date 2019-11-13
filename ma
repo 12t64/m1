@@ -1546,5 +1546,29 @@ http://dl2.film2serial.ir/film2serial/film/asli/98/2/Amundsen.2019.480p.WEB-DL..
 http://dl2.film2serial.ir/film2serial/film/asli/98/2/Walk.Ride.Rodeo.2019.480p.WEB-DL..mkv
 #EXTINF:-1 tvg-logo="http://www.film2serial.ir/wp-content/uploads/2019/02/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg" group-title="Drama EN",O.G
 http://dl2.film2serial.ir/film2serial/film/asli/97/12/O.G.2018.480p.WEB-DL..mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Joker_2019.jpg" group-title="2-Recently Add EN",Joker 2019
+https://dl14.ftk.pw/film/Jo.ker.2019.480p.hd.rp.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Angel-Has-Fallen-2019.jpg" group-title="2-Recently Add EN",Angel Has Fallen 2019
+https://dl14.ftk.pw/film/An.gel.Ha.s.Fal.len.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Dont-Let-Go-2019.jpg" group-title="2-Recently Add EN",Dont Let Go 2019
+https://dl14.ftk.pw/film/Dont.Let.Go.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Midway-2019.jpg" group-title="2-Recently Add EN",Midway 2019
+http://dl13.ftk.pw/user/shahab/film/Mid.way.2019.2019.2019.h.d.cm.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Joker_2019.jpg" group-title="8-Movies English",Joker 2019
+https://dl14.ftk.pw/film/Jo.ker.2019.480p.hd.rp.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Angel-Has-Fallen-2019.jpg" group-title="8-Movies English",Angel Has Fallen 2019
+https://dl14.ftk.pw/film/An.gel.Ha.s.Fal.len.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Dont-Let-Go-2019.jpg" group-title="8-Movies English",Dont Let Go 2019
+https://dl14.ftk.pw/film/Dont.Let.Go.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Midway-2019.jpg" group-title="8-Movies English",Midway 2019
+http://dl13.ftk.pw/user/shahab/film/Mid.way.2019.2019.2019.h.d.cm.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Angel-Has-Fallen-2019.jpg" group-title="Action EN",Angel Has Fallen 2019
+https://dl14.ftk.pw/film/An.gel.Ha.s.Fal.len.2019.480p.WEB-DL.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Midway-2019.jpg" group-title="War EN",Midway 2019
+http://dl13.ftk.pw/user/shahab/film/Mid.way.2019.2019.2019.h.d.cm.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Joker_2019.jpg" group-title="Horror EN",Joker 2019
+https://dl14.ftk.pw/film/Jo.ker.2019.480p.hd.rp.Film2Movie_li.mkv
+#EXTINF:-1 tvg-logo="https://www.film2movie.li/content/uploads/Dont-Let-Go-2019.jpg" group-title="Horror EN",Dont Let Go 2019
+https://dl14.ftk.pw/film/Dont.Let.Go.2019.480p.WEB-DL.Film2Movie_li.mkv
 
 
